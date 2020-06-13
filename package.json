@@ -1,0 +1,21 @@
+{
+  "name": "hexlet-jest",
+  "version": "1.0.0",
+  "description": "my first tests with jest",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "hexlet",
+    "jest"
+  ],
+  "author": "Anastasiia Batsvinova",
+  "license": "WTFPL",
+  "devDependencies": {
+    "@babel/core": "^7.10.2",
+    "@babel/preset-env": "^7.10.2",
+    "babel-jest": "^26.0.1",
+    "jest": "^26.0.1"
+  }
+}
